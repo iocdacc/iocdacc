@@ -28,4 +28,4 @@
 ### &#127826; How to reach me
 
 ![wechat](https://img.shields.io/badge/xii50021-%20-white?style=social&logo=wechat)
-![Gmail](https://img.shields.io/badge/iocdacc@gamil.com-%20-white?style=social&logo=e-Gmail)
+![gmail](https://img.shields.io/badge/iocdacc@gamil.com-%20-white?style=social&logo=Gmail)
