@@ -12,3 +12,6 @@
 ### ⚡ Tools
 
 ![Visual%20Studio%20Code](https://img.shields.io/badge/Visual%20Studio%20Code-%20-white?style=social&logo=Visual%20Studio%20Code&logoColor=61dafb)
+![windows](https://img.shields.io/badge/windows-%20-white?style=social&logo=windows&logoColor=61dafb)
+![macos](https://img.shields.io/badge/macos-%20-white?style=social&logo=macos&logoColor=61dafb)
+![android%20Studio%20Code](https://img.shields.io/badge/android-%20-white?style=social&logo=android&logoColor=61dafb)
