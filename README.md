@@ -25,7 +25,7 @@
 ![mac%20os](https://img.shields.io/badge/mac%20os-%20-white?style=social&logo=apple)
 ![android%20Studio%20Code](https://img.shields.io/badge/android-%20-white?style=social&logo=android)
 
-### &#127826; How to reach me
+### &#127817; How to reach me
 
 ![wechat](https://img.shields.io/badge/xii500211-%20-white?style=social&logo=wechat)
 ![gmail](https://img.shields.io/badge/iocdacc@gamil.com-%20-white?style=social&logo=Gmail)
