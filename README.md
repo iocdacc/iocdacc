@@ -1,6 +1,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=iocdacc" align="right" />
 
-### ⚡ I use
+### ⚡ My skills
 
 ![React](https://img.shields.io/badge/React-%20-white?style=social&logo=react&logoColor=61dafb)
 ![Vue](https://img.shields.io/badge/Vue-%20-white?style=social&logo=vue.js&logoColor=41b883)
@@ -13,7 +13,7 @@
 ![git](https://img.shields.io/badge/git-%20-white?style=social&logo=git)
 ![github](https://img.shields.io/badge/github-%20-white?style=social&logo=github)
 
-### ⚡ Tools
+### ⚡ I use these tools
 
 ![Visual%20Studio%20Code](https://img.shields.io/badge/Visual%20Studio%20Code-%20-white?style=social&logo=Visual%20Studio%20Code)
 ![Sublime%20Text](https://img.shields.io/badge/Sublime%20Text-%20-white?style=social&logo=Sublime%20Text)
