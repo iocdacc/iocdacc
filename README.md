@@ -11,4 +11,4 @@
 
 ### ⚡ Tools
 
-![VsCode](https://img.shields.io/badge/VsCode-%20-white?style=social&logo=VsCode&logoColor=61dafb)
+![Visual%20Studio%20Code](https://img.shields.io/badge/Visual%20Studio%20Code-%20-white?style=social&logo=Visual%20Studio%20Code&logoColor=61dafb)
