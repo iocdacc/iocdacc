@@ -13,7 +13,7 @@
 ![git](https://img.shields.io/badge/git-%20-white?style=social&logo=git)
 ![github](https://img.shields.io/badge/github-%20-white?style=social&logo=github)
 
-### ⚡ I use these tools
+### &#127826; I use these tools
 
 ![Visual%20Studio%20Code](https://img.shields.io/badge/Visual%20Studio%20Code-%20-white?style=social&logo=Visual%20Studio%20Code)
 ![Sublime%20Text](https://img.shields.io/badge/Sublime%20Text-%20-white?style=social&logo=Sublime%20Text)
