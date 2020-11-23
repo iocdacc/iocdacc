@@ -27,5 +27,5 @@
 
 ### &#127826; How to reach me
 
-![wechat](https://img.shields.io/badge/xii50021-%20-white?style=social&logo=wechat)
+![wechat](https://img.shields.io/badge/xii500211-%20-white?style=social&logo=wechat)
 ![gmail](https://img.shields.io/badge/iocdacc@gamil.com-%20-white?style=social&logo=Gmail)
