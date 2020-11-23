@@ -4,12 +4,12 @@
 
 ![React](https://img.shields.io/badge/React-%20-white?style=social&logo=react&logoColor=61dafb)
 ![Vue](https://img.shields.io/badge/Vue-%20-white?style=social&logo=vue.js&logoColor=41b883)
-![HTML](https://img.shields.io/badge/HTML-%20-white?style=social&logo=html5&logoColor=41b883)
-![CSS](https://img.shields.io/badge/CSS-%20-white?style=social&logo=css3&logoColor=41b883)
-![JavaScript](https://img.shields.io/badge/JavaScript-%20-white?style=social&logo=javascript&logoColor=41b883)
-![webpack](https://img.shields.io/badge/webpack-%20-white?style=social&logo=webpack&logoColor=41b883)
-![npm](https://img.shields.io/badge/npm-%20-white?style=social&logo=npm&logoColor=41b883)
-![yarn](https://img.shields.io/badge/yarn-%20-white?style=social&logo=yarn&logoColor=41b883)
+![HTML](https://img.shields.io/badge/HTML-%20-white?style=social&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-%20-white?style=social&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-%20-white?style=social&logo=javascript)
+![webpack](https://img.shields.io/badge/webpack-%20-white?style=social&logo=webpack)
+![npm](https://img.shields.io/badge/npm-%20-white?style=social&logo=npm)
+![yarn](https://img.shields.io/badge/yarn-%20-white?style=social&logo=yarn)
 
 ### ⚡ Tools
 
