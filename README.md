@@ -3,4 +3,4 @@
 ### ⚡ I use
 
 <img src="https://img.shields.io/badge/%20-React-white?style=social&logo=react"/>
-<img src="https://img.shields.io/badge/%20-vue-white?style=social&logo=vue.js"/>
+<img src="https://img.shields.io/badge/%20-vue-white?style=social&logo=vue.js&logoColor=fff"/>
