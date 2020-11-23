@@ -24,3 +24,8 @@
 ![windows](https://img.shields.io/badge/windows-%20-white?style=social&logo=windows)
 ![mac%20os](https://img.shields.io/badge/mac%20os-%20-white?style=social&logo=apple)
 ![android%20Studio%20Code](https://img.shields.io/badge/android-%20-white?style=social&logo=android)
+
+### &#127826; How to reach me
+
+![wechat](https://img.shields.io/badge/xii50021-%20-white?style=social&logo=wechat)
+![email](https://img.shields.io/badge/email-%20-white?style=social&logo=email)
