@@ -13,5 +13,5 @@
 
 ![Visual%20Studio%20Code](https://img.shields.io/badge/Visual%20Studio%20Code-%20-white?style=social&logo=Visual%20Studio%20Code&logoColor=61dafb)
 ![windows](https://img.shields.io/badge/windows-%20-white?style=social&logo=windows&logoColor=61dafb)
-![mac%20os](https://img.shields.io/badge/mac%20os-%20-white?style=social&logo=mac%20os&logoColor=61dafb)
+![Mac%20OS](https://img.shields.io/badge/Mac%20OS-%20-white?style=social&logo=Mac%20OS&logoColor=61dafb)
 ![android%20Studio%20Code](https://img.shields.io/badge/android-%20-white?style=social&logo=android&logoColor=61dafb)
