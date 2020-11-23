@@ -16,6 +16,7 @@
 ### ⚡ Tools
 
 ![Visual%20Studio%20Code](https://img.shields.io/badge/Visual%20Studio%20Code-%20-white?style=social&logo=Visual%20Studio%20Code)
+![Sublime Text](https://img.shields.io/badge/Sublime Text-%20-white?style=social&logo=Sublime Text)
 ![windows](https://img.shields.io/badge/windows-%20-white?style=social&logo=windows)
 ![mac%20os](https://img.shields.io/badge/mac%20os-%20-white?style=social&logo=apple)
 ![android%20Studio%20Code](https://img.shields.io/badge/android-%20-white?style=social&logo=android)
