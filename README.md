@@ -4,13 +4,11 @@
 
 ![React](https://img.shields.io/badge/React-%20-white?style=social&logo=react&logoColor=61dafb)
 ![Vue](https://img.shields.io/badge/Vue-%20-white?style=social&logo=vue.js&logoColor=41b883)
-
+![jQuery](https://img.shields.io/badge/jQuery-%20-white?style=social&logo=jQuery)
 
 ![HTML](https://img.shields.io/badge/HTML-%20-white?style=social&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-%20-white?style=social&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%20-white?style=social&logo=javascript&logoColor=f5dc1f)
-![jQuery](https://img.shields.io/badge/jQuery-%20-white?style=social&logo=jQuery)
-
 
 ![webpack](https://img.shields.io/badge/webpack-%20-white?style=social&logo=webpack&logoColor=83c6e8)
 ![npm](https://img.shields.io/badge/npm-%20-white?style=social&logo=npm)
