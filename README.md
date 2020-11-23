@@ -2,5 +2,5 @@
 
 ### ⚡ I use
 
-<img src="https://img.shields.io/badge/%20-React-white?style=social&logo=appveyor"/>
-<img src="https://img.shields.io/badge/%20-vue-white?style=social&logo=Vue.js"/>
+<img src="https://img.shields.io/badge/%20-React-white?style=social&logo=react"/>
+<img src="https://img.shields.io/badge/%20-vue-white?style=social&logo=vue.js"/>
