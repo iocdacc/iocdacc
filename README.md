@@ -10,6 +10,8 @@
 ![webpack](https://img.shields.io/badge/webpack-%20-white?style=social&logo=webpack)
 ![npm](https://img.shields.io/badge/npm-%20-white?style=social&logo=npm)
 ![yarn](https://img.shields.io/badge/yarn-%20-white?style=social&logo=yarn)
+![git](https://img.shields.io/badge/git-%20-white?style=social&logo=git)
+![github](https://img.shields.io/badge/github-%20-white?style=social&logo=github)
 
 ### ⚡ Tools
 
