@@ -9,6 +9,7 @@
 ![HTML](https://img.shields.io/badge/HTML-%20-white?style=social&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-%20-white?style=social&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%20-white?style=social&logo=javascript&logoColor=f5dc1f)
+![jQuery](https://img.shields.io/badge/jQuery-%20-white?style=social&logo=jQuery)
 
 
 ![webpack](https://img.shields.io/badge/webpack-%20-white?style=social&logo=webpack&logoColor=83c6e8)
