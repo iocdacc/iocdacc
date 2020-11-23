@@ -28,4 +28,4 @@
 ### &#127826; How to reach me
 
 ![wechat](https://img.shields.io/badge/xii50021-%20-white?style=social&logo=wechat)
-![Email](https://img.shields.io/badge/Email-%20-white?style=social&logo=Email)
+![Email](https://img.shields.io/badge/Email-%20-white?style=social&logo=e-mail)
