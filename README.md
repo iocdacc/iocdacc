@@ -2,8 +2,8 @@
 
 ### ⚡ I use
 
-![react](https://img.shields.io/badge/React-%20-white?style=social&logo=react&logoColor=61dafb)
-![vue](https://img.shields.io/badge/vue-%20-white?style=social&logo=vue.js&logoColor=41b883)
-![html](https://img.shields.io/badge/vue-%20-white?style=social&logo=html5&logoColor=41b883)
-![css](https://img.shields.io/badge/vue-%20-white?style=social&logo=css3&logoColor=41b883)
-![javascript](https://img.shields.io/badge/vue-%20-white?style=social&logo=javascript&logoColor=41b883)
+![React](https://img.shields.io/badge/React-%20-white?style=social&logo=react&logoColor=61dafb)
+![Vue](https://img.shields.io/badge/Vue-%20-white?style=social&logo=vue.js&logoColor=41b883)
+![Html](https://img.shields.io/badge/Html-%20-white?style=social&logo=html5&logoColor=41b883)
+![Css](https://img.shields.io/badge/Css-%20-white?style=social&logo=css3&logoColor=41b883)
+![JavaScript](https://img.shields.io/badge/JavaScript-%20-white?style=social&logo=javascript&logoColor=41b883)
